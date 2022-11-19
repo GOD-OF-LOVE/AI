@@ -1,5 +1,4 @@
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="40" height="40">
-
 <p align="center">
 <a href="https://www.ibm.com/in-en">
 <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white">
@@ -204,4 +203,4 @@
 >                
 
 ### IBM Project | Dept of Information Technology | <img src="https://te.legra.ph/file/db70e692f1c07c6adc6fd.jpg"
-" alt="InfiniteGraph Logo" width="20"> PANIMALAR INSTITUTE OF TECHENOLOGY
+"alt="InfiniteGraph Logo" width="20"> PANIMALAR INSTITUTE OF TECHENOLOGY
